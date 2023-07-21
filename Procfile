@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run firsrt_app.py
+web: sh setup.sh && streamlit run glass_app.py
